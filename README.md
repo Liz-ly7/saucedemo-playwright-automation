@@ -36,62 +36,6 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-**4. Install the Chromium browser** 
-
-```powershell
-python -m playwright install chromium
-```
-
-**5. Run the automated tests**
-
-Open a terminal in the project root directory and follow these steps.
-
-**1. Create a virtual environment (Windows)**
-
-```powershell
-python -m venv .venv
-```
-
-**2. Activate the virtual environment (PowerShell)**
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-**3. Install the required dependencies**
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
-**4. Install the Chromium browser**
-
-```powershell
-python -m playwright install chromium
-```
-
-**5. Run the automated tests**## How to Run
-
-Open a terminal in the project root directory and follow these steps.
-
-**1. Create a virtual environment (Windows)**
-
-```powershell
-python -m venv .venv
-```
-
-**2. Activate the virtual environment (PowerShell)**
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-**3. Install the required dependencies**
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
 **4. Install the Chromium browser**
 
 ```powershell
